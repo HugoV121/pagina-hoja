@@ -1,0 +1,31 @@
+body {
+    display: flex;
+}
+.contenedor{
+  border: 1px solid blue;
+  margin: 0% auto;
+  width: 60%;
+  background:cornflowerblue
+  
+}
+.princial{
+    background: chartreuse;
+    padding: 10px;
+}
+.header{
+    display: flex;
+}
+.nombre{
+    display: ruby-base-container;
+    margin-left: auto;
+}
+.contenido{
+    background: white;
+}
+.titulo{
+    border:2px solid blue;
+    color:black;
+}
+.contenido2{
+    background: white;
+}
